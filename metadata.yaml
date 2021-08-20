@@ -1,11 +1,16 @@
 _repo: Old-Ruff-The-Trapper-or-The-Young-Fur-Hunters-Beadles-Pocket-Novels-Vol-VI-No-76_66085
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66085-h/images/cover.jpg
 creator:
   author:
     agent_name: Adams, “Bruin”
     gutenberg_agent_id: '53630'
     url: http://www.gutenberg.org/2009/agents/53630
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66085#Old-Ruff-The-Trapper-or-The-Young-Fur-Hunters-Beadles-Pocket-Novels-Vol-VI-No-76
 gutenberg_issued: '2021-08-19'
 gutenberg_type: Text
 identifiers:
